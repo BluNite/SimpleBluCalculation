@@ -42,7 +42,8 @@ Code a simple JS Calculator using Vanilla JS, HTML, and CSS
 
 ## Visuals
 
-[calculator image](https://github.com/BluNite/SimpleBluCalculation/blob/main/images)
+<image style= "height: 400px; width:400px" src="images/Screenshot 2024-09-02 002632.png"
+ />
 
 ## Build
 
