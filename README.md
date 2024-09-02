@@ -6,6 +6,10 @@ A basic calculator for addition, subtraction, multiplication, and division.
 
 ---
 
+## Deployment
+
+- https://blunite.github.io/SimpleBluCalculation/
+
 ## Contents
 
 1. [About](#about)
